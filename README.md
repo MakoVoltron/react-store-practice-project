@@ -10,3 +10,6 @@ This is the final code-along project for the Complete React, Next.js & TypeScrip
 - React Router 6
 - Redux for advanced state management throughout the whole project
 - React Query for caching
+- Handling front-end user authentication & route restrictions
+
+See the project here 👉 https://react-store-practice-project.netlify.app
