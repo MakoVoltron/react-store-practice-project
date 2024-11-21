@@ -1,8 +1,12 @@
-# React + Vite
+# Store Mockup in React + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the final code-along project for the Complete React, Next.js & TypeScript Projects Course 2024 course by John Smilga (https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=KEEPLEARNING)
 
-Currently, two official plugins are available:
+## What it covers?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React JS, set up using Vite
+- Components and best practices for organizing them in the overall project structure
+- Tailwind CSS
+- React Router 6
+- Redux for advanced state management throughout the whole project
+- React Query for caching
